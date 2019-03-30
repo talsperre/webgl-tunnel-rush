@@ -1,8 +1,12 @@
-Graphics Assignment 3
+Tunnel Rush using WebGL
 =====================
 
-Shashank - 20161103
-=======================
+## About the game
+This is a simple WebGL clone of Tunnel Rush game. The game has several features like textures, lighting and shadows. A sample of how the game looks like is given below:
+
+<p align="center">
+  <img src="tunnel-rush.png" alt="Tunnel Rush"/>
+</p>
 
 ## 1. How to run the game
 
@@ -15,8 +19,6 @@ open index.html in it.
 
 ## 2. Controls :
 * The user can play by keyboard.
-
-  ​
 
 ##### Keyboard Controls
 
