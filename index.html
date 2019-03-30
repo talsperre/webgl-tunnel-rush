@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>WebGL Demo</title>
+		<link rel="stylesheet" href="webgl.css" type="text/css">
+	</head>
+
+	<body id="load">
+		<div id="overlay">
+			<div>Score:
+				<span id="score"></span>
+			</div>
+			<div>Level:
+				<span id="level"></span>
+			</div>
+			<div>Lives:
+				<span id="life"></span>
+			</div>	
+		</div>
+		<canvas id="glcanvas" width="1280" height="950"></canvas>
+	</body>
+
+	<script src="config.js"></script>
+ 	<script src="obj-buffers.js"></script>
+	<script src="mousetrap/mousetrap.min.js"></script>
+	<script src="gl-matrix.js"></script>
+	<script src="blocks1.js"></script>	
+	<script src="blocks2.js"></script>	
+	<script src="webgl-demo.js"></script>
+	<script src="sound.js"></script>
+</html>
